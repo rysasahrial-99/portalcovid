@@ -7,5 +7,5 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Regard,<br><strong>Rysa Sahrial S.T., M.Kom</strong><br></p>
+<p>Regard,<br><strong>Rysa Sahrial</strong><br></p>
 <!-- /wp:paragraph -->
