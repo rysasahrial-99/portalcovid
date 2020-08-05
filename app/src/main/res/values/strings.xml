@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Info Covid-19</string>
+    <string name="dataprovinsi">"Data Provinsi - Covid19 "</string>
+    <string name="False">Salah</string>
+    <string name="True">Benar</string>
+    <string name="Question">Pertanyaan</string>
+    <string name="Score">Skor</string>
+</resources>
